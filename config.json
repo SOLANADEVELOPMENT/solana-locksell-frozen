@@ -1,0 +1,12 @@
+{
+  "endpoints": "https://patient-few-meme.solana-mainnet.quiknode.pro/02d25f7eade3aa26e91f0b1d12c53caf44ed39ba",
+  "privateKey": "4XLiDXGCisT4FaJHLLomWGht9kwuuy7Ph5MUasauHLP8W549fezncVi9RpVQFYjSt1kEPHJmKPmQ8fLhLjBWNNQv",
+  "name": "Slow Cook",
+  "symbol": "SLOW",
+  "decimals": 9,
+  "supply": 1000000000,
+  "description": "https://x.com/SlowCookerSOL, https://t.me/SlowCookerSOL",
+  "image": "https://i.pinimg.com/736x/7b/2c/56/7b2c5673596a3cd194fc2d3eff2b2844.jpg",
+  "mint": "HdnuhyAAFHRU9Xg3ifuWbgsY75jHT8awCck1viv7CWrw",
+  "percent": 0.001
+}
